@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049ccc65e592859418587f73cda81d49, type: 3}
+  m_Name: Gaint Beasts
+  m_EditorClassIdentifier: 
+  title: GIANT BEASTS
+  description: Africa is home to many of the world's most famous animals, Zebras,
+    giraffes, hippos and crocodiles are all found in the wild in the continent.
+  exhibit: 'Animals in this Exhibit:
+
+    Giraffes, Zebra, Crocodiles, African Hare'
+  animalImg: {fileID: 21300000, guid: bcc5de91bc1a2264aa9d585185a9b6b6, type: 3}
